@@ -1,9 +1,9 @@
 ===================================================================
 # Question3
 
--We will be using killercoda free servers for today's practical session:
+- We will be using killercoda free servers for today's practical session:
 
--Go to the below webpage and sign on with your Github account.   
+- Go to the below webpage and sign on with your Github account.   
 
 https://killercoda.com/
 
@@ -11,18 +11,18 @@ https://killercoda.com/
 
 # Time 15: mins 
 
--Set your time by google searching the below:
+- Set your time by google searching the below:
 
--google timer 15 minutes countdown
+- google timer 15 minutes countdown
 
 
 # Note: Copy and Paste the answers to the group chat
 
--Look for and click on kubernetes and select Playground - Play with kubernetes
+- Look for and click on kubernetes and select Playground - Play with kubernetes
 
 -or 
 
--use the below URL:
+- use the below URL:
 
 https://killercoda.com/kubernetes/scenario/playground
 
@@ -50,16 +50,16 @@ How many sevices are currently running in the whole cluster and what are these s
 
 -Hint:
 
--kubectl get nodes -o wide
+- kubectl get nodes -o wide
 
--kubectl get all -A
+- kubectl get all -A
 
 
 ============================================================
 
 # Question 7:
 
--Using the below kubernetes documentation link
+- Using the below kubernetes documentation link
 
 https://kubernetes.io/docs/concepts/workloads/controllers/deployment/
 
@@ -68,12 +68,12 @@ https://kubernetes.io/docs/concepts/workloads/controllers/deployment/
 
 -Hint:
 
--vim
+- vim
 
--kubectl apply -f nginx-web.yaml
+- kubectl apply -f nginx-web.yaml
 
--kubectl get deployment
+- kubectl get deployment
   
--kubectl get all
+- kubectl get all
 
 ============================================================
