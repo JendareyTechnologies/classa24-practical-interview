@@ -57,7 +57,7 @@ How many sevices are currently running in the whole cluster and what are these s
 
 ============================================================
 
-# Question 2:
+# Question 7:
 
 -Using the below kubernetes documentation link
 
