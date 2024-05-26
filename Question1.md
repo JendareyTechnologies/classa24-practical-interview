@@ -2,9 +2,9 @@
 
 # Question1
 
--We will be using killercoda free servers for today's practical session:
+- We will be using killercoda free servers for today's practical session:
 
--Go to the below webpage and sign on with your Github account.
+- Go to the below webpage and sign on with your Github account.
 
 https://killercoda.com/
 
@@ -12,17 +12,17 @@ https://killercoda.com/
 
 # Time 15: mins
 
--Set your time by google searching the below:
+- Set your time by google searching the below:
 
--google timer 15 minutes countdown
+- google timer 15 minutes countdown
 
 # Questions:
 
--Look for and click on Linuz by Pawel Piwosz and select lesson 1
+- Look for and click on Linuz by Pawel Piwosz and select lesson 1
 
 -or
 
--use the below URL:
+- use the below URL:
 
 https://killercoda.com/pawelpiwosz/course/linuxFundamentals/lf-01-ls
 
