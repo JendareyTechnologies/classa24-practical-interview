@@ -67,10 +67,13 @@ https://kubernetes.io/docs/concepts/workloads/controllers/deployment/
 
 
 -Hint:
+
 -vim
 
-  kubectl apply -f nginx-web.yaml
-  kubectl get deployment
-  kubectl get all
+-kubectl apply -f nginx-web.yaml
+
+-kubectl get deployment
+  
+-kubectl get all
 
 ============================================================
