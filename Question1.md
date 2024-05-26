@@ -32,7 +32,7 @@ Select Lesson 1: and
 
 # 1: Install 
 - Git
-- openjdk-17
+- openjdk-17-jdk
 - Maven
 
 - Verify the installation of the above with the necessary commands:
