@@ -49,7 +49,9 @@ How many sevices are currently running in the whole cluster and what are these s
 ----
 
 -Hint:
+
 -kubectl get nodes -o wide
+
 -kubectl get all -A
 
 
