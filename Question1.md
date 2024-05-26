@@ -28,7 +28,7 @@ https://killercoda.com/pawelpiwosz/course/linuxFundamentals/lf-01-ls
 
 Select Lesson 1: and 
 
-# perform the below task
+# Perform the below task
 
 # 1: Install 
 - Git
