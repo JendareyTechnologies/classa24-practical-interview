@@ -9,25 +9,28 @@ https://killercoda.com/
 
 =========================================================================
 
-Time 15: mins
+# Time 15: mins
 
-Set your time by google searching the below:
+-Set your time by google searching the below:
 
-google timer 15 minutes countdown
+-google timer 15 minutes countdown
 
-Questions:
+# Questions:
 
-Look for and click on Linuz by Pawel Piwosz and select lesson 1
+-Look for and click on Linuz by Pawel Piwosz and select lesson 1
 
 or
 
-use the below URL:
+-use the below URL:
 
 https://killercoda.com/pawelpiwosz/course/linuxFundamentals/lf-01-ls
 
-Select Lesson 1: and perform the below task
+-Select Lesson 1: and perform the below task
 
-1: Install - Git - openjdk-17 - Maven
+# 1: Install 
+- Git
+- openjdk-17
+- Maven
 
 Verify the installation of the above with the necessary commands:
 
