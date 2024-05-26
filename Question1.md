@@ -2,8 +2,9 @@
 
 # Question1
 
-We will be using killercoda free servers for today's practical session:
-Go to the below webpage and sign on with your Github account.
+-We will be using killercoda free servers for today's practical session:
+
+-Go to the below webpage and sign on with your Github account.
 
 https://killercoda.com/
 
@@ -19,7 +20,7 @@ https://killercoda.com/
 
 -Look for and click on Linuz by Pawel Piwosz and select lesson 1
 
-or
+-or
 
 -use the below URL:
 
@@ -32,9 +33,9 @@ https://killercoda.com/pawelpiwosz/course/linuxFundamentals/lf-01-ls
 - openjdk-17
 - Maven
 
-Verify the installation of the above with the necessary commands:
+- Verify the installation of the above with the necessary commands:
 
-Perform the below task
+# Perform the below task
 
 # 2a. Clone the below url
 
