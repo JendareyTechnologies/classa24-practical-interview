@@ -36,11 +36,12 @@ Verify the installation of the above with the necessary commands:
 
 Perform the below task
 
-2a. Clone the below url build below project to the .war file
+# 2a. Clone the below url
 
 https://github.com/JendareyTechnologies/Jendarey-Engineers-Voting-Result-App-War-Project1.git
-2b. Build below project to generate the .war file and paste the name of .war file on the group chat.
 
-2c. What the total number of directories and files in the project file. Hint use the "tree command"
+# 2b. Build the project to generate the .war file and paste the name of .war file on the group chat.
+
+# 2c. What is the total number of directories and files in the project file. Hint use the "tree command"
 
 =========================================================================
