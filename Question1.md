@@ -26,7 +26,9 @@ https://killercoda.com/
 
 https://killercoda.com/pawelpiwosz/course/linuxFundamentals/lf-01-ls
 
--Select Lesson 1: and perform the below task
+Select Lesson 1: and 
+
+# perform the below task
 
 # 1: Install 
 - Git
@@ -35,7 +37,6 @@ https://killercoda.com/pawelpiwosz/course/linuxFundamentals/lf-01-ls
 
 - Verify the installation of the above with the necessary commands:
 
-# Perform the below task
 
 # 2a. Clone the below url
 
