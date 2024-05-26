@@ -40,7 +40,9 @@ Select Lesson 1: and
 
 # 2a. Clone the below url
 
+~~~
 https://github.com/JendareyTechnologies/Jendarey-Engineers-Voting-Result-App-War-Project1.git
+~~~
 
 # 2b. Build the project to generate the .war file and paste the name of .war file on the group chat.
 
