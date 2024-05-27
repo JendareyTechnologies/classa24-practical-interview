@@ -79,7 +79,7 @@ CMD ["/usr/sbin/apache2ctl", "-D", "FOREGROUND"]
 
 =====================================
 
-# 1b: Create a container from dicker image called: jendaredocker/mediplus-lite:v6 
+# 1b: Create a container from docker image called: jendaredocker/mediplus-lite:v6 
 
   - Hint:
 
